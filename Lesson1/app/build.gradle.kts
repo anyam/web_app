@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.mirea.GrenkovaAG.lesson1"
+    namespace = "com.mirea.grenkovaag.lesson1"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.mirea.GrenkovaAG.lesson1"
+        applicationId = "com.mirea.grenkovaag.lesson1"
         minSdk = 26
         targetSdk = 35
         versionCode = 1

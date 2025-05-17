@@ -1,4 +1,4 @@
-package com.mirea.GrenkovaAG.lesson1;
+package com.mirea.grenkovaag.lesson1;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.mirea.GrenkovaAG.lesson1", appContext.getPackageName());
+        assertEquals("com.mirea.grenkovaag.lesson1", appContext.getPackageName());
     }
 }

@@ -1,4 +1,4 @@
-package com.mirea.GrenkovaAG.lesson1;
+package com.mirea.grenkovaag.lesson1;
 
 import android.os.Bundle;
 
